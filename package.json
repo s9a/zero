@@ -8,7 +8,7 @@
   "author": "*",
   "private": true,
   "scripts": {
-    "ff": "npm run firefox",
+    "start": "npm run firefox",
     "firefox": "open -a firefox . || start firefox .",
     "test": "npm doctor"
   }
